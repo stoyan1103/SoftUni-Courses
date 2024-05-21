@@ -10,6 +10,5 @@ public class _01_FirstAttempt {
 
         System.out.printf("You chose number: %d\n", number);
         System.out.println(10);
-
     }
 }
