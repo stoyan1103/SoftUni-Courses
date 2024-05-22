@@ -11,6 +11,8 @@ public class _02_Test {
         System.out.print("Enter your age: ");
         int age = Integer.parseInt(scanner.nextLine());
 
-        System.out.printf("Hi %s, you are %d years old!", name, age);
+        System.out.printf("Hi %s, you are %d years old!\n", name, age);
+        System.out.printf("Hi %s, you are %d years old!\n", name, age);
+
     }
 }
